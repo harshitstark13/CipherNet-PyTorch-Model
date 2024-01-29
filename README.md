@@ -29,7 +29,7 @@ CipherNet is a deep neural network designed for binary classification tasks. Thi
 
 **Note:**
 
-Fine-tuning hyperparameters and adjusting the model architecture may be necessary depending on the characteristics of your specific dataset.
+* Fine-tuning hyperparameters and adjusting the model architecture may be necessary depending on the characteristics of your specific dataset.
 
 **Instructions:**
 
