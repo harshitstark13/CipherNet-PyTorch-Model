@@ -5,11 +5,11 @@ CipherNet is a deep neural network designed for binary classification tasks. Thi
 
 **Features:**
 
-*The model architecture consists of three fully connected layers with ReLU activation functions, offering flexibility in capturing complex patterns within the data.
+* The model architecture consists of three fully connected layers with ReLU activation functions, offering flexibility in capturing complex patterns within the data.
 
-*Utilizes the Adam optimizer and binary cross-entropy loss function for efficient training on binary classification tasks.
+* Utilizes the Adam optimizer and binary cross-entropy loss function for efficient training on binary classification tasks.
 
-*Standard scaling is applied to input features for improved convergence during training.
+* Standard scaling is applied to input features for improved convergence during training.
 
 **Performance:**
 
